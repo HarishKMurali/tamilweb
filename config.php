@@ -1,9 +1,9 @@
 <?php
 
-$host = "localhost"; /* Host name */
-$user = "root"; /* User */
-$password = ""; /* Password */
-$dbname = "tamil"; /* Database name */
+$host = "sql12.freemysqlhosting.net"; /* Host name */
+$user = "sql12356142"; /* User */
+$password = "JNJN6gx2pz"; /* Password */
+$dbname = "sql12356142"; /* Database name */
 
 $con = mysqli_connect($host, $user, $password,$dbname);
 // Check connection
