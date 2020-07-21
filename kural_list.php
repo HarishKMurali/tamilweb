@@ -39,6 +39,7 @@ h2{
   background-color: #4CAF50;
 }
 </style>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 
 <body class="w3-container">
